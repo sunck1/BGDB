@@ -56,7 +56,7 @@ The root-level files extend DeepLabV3+ with BGDB and custom diffusion models.
 
 ## Acknowledgements
 This project is based on:
-- https://github.com/leimao/DeepLab-V3
+- https://github.com/VainF/DeepLabV3Plus-Pytorch
 - https://github.com/openai/improved-diffusion
 
 Special thanks to the authors for making research and development easier.
