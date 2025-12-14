@@ -14,7 +14,7 @@
 
 ## Installation
 ```bash
-git clone https://github.com/JinqianPan/BGDB.git
+git clone https://github.com/sunck1/BGDB.git
 cd BGDB
 git submodule update --init --recursive
 
