@@ -24,7 +24,7 @@ conda activate BGDB
 
 ## Training Example
 
-Run the following command to train BGDB-DeepLabV3+ on Cityscapes:
+Run the following command to train BGDB-DeepLabV3+ on Voc:
 
 ```bash
 python main.py \
